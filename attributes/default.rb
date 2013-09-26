@@ -8,5 +8,5 @@
 #
 
 default['memcached'] = {
-  'memory' => '64'
+  'memory' => '128'
 }
